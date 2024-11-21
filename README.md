@@ -1,4 +1,4 @@
-#Sommario Della tesi
+# Sommario Della tesi
 Un deepfake è un contenuto video creato o alterato con algoritmi di deep learning,
 che risulta altamente realistico agli occhi delle persone. La tipologia di deepfake più
 diffusa riguarda la manipolazione di volti, che può essere usata per scopi malevoli,
